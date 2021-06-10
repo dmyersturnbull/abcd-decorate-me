@@ -12,7 +12,7 @@ build-backend = "poetry.masonry.api"
 
 [tool.poetry]
 name = "decorateme"
-version = "0.2.2"
+version = "0.2.1"
 description = "Python decorators for str/repr, equality, immutability, and more."
 keywords = ["python", "decorators", "repr"]
 authors = ["Douglas Myers-Turnbull"]
@@ -32,7 +32,6 @@ classifiers = [
     "Operating System :: OS Independent",
     "Topic :: Software Development :: Libraries :: Python Modules"
 ]
-include = []
 
 [tool.poetry.urls]
 CI = "https://github.com/dmyersturnbull/decorate-me/actions"
